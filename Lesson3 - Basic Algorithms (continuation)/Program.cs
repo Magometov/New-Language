@@ -11,7 +11,7 @@
 */
 
 
-/*
+
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
@@ -32,7 +32,7 @@ else
 {
     Console.WriteLine($"{some_num} -> нет");
 }
-*/
+
 
 
 /*
@@ -46,7 +46,7 @@ else
 */
 
 
-/*
+
 Console.Write("Введите координаты первой точки: ");
 string [] numA = Console.ReadLine().Split(' ');
 
@@ -68,7 +68,7 @@ int B = y2 - y1;
 int C = z2 - z1;
 
 Console.WriteLine($"A({x1},{y1},{z1}); B({x2},{y2},{z2}) -> {Math.Round(Math.Sqrt(A * A + B * B + C * C), 2)}");
-*/
+
 
 
 /*
